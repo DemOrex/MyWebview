@@ -1237,7 +1237,7 @@ public class WebActivity extends BlockActivity {
         });
         alertDialog.setNegativeButton(getString(R.string.button_git), new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int which) {
-                webView.loadUrl("https://github.com/DemOrex/MyWeb.git");
+                webView.loadUrl("https://github.com/DemOrex/MyWebview.git");
                 dialog.cancel();
             }
         });
