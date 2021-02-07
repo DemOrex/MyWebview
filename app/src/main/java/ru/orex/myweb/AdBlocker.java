@@ -50,7 +50,7 @@ public class AdBlocker {
         try {
             return isAdHost(getHost(url));
         } catch (MalformedURLException e) {
-            Log.d("Ad Block:", e.toString());
+           // Log.d("Ad Block:", e.toString());
             return false;
         }
     }
