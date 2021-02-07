@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name" translatable="false">MyWeb</string>
+    <string name="menu_home" translatable="false">Дом</string>
+    <string name="menu_search" translatable="false">Поиск</string>
+    <string name="menu_tab" translatable="false">Табы</string>
+    <string name="menu_dop" translatable="false">Доп меню</string>
+    <string name="menu_add_bookmark" translatable="false">Добавить закладку</string>
+    <string name="menu_bookmark" translatable="false">Закладки</string>
+    <string name="menu_actionbar" translatable="false">Скрыть actionbar</string>
+    <string name="menu_history" translatable="false">История</string>
+    <string name="menu_share" translatable="false">Поделиться</string>
+    <string name="menu_screenshot" translatable="false">Скиншот</string>
+    <string name="menu_htpp" translatable="false">Html</string>
+    <string name="menu_mylog" translatable="false">MyLOG</string>
+    <string name="menu_about_site" translatable="false">О сайте</string>
+    <string name="menu_setting" translatable="false">Настройки</string>
+    <string name="menu_pdf" translatable="false">Сохранить в PDF</string>
+    <string name="menu_exit" translatable="false">Выход</string>
+    <string name="menu_app_info" translatable="false">О приложении</string>
+
+
+    <string name="exit_from_app" translatable="false">Выйти из приложения?</string>
+    <string name="are_you_sure" translatable="false">Вы уверены?</string>
+
+    <string name="complete_action_using" translatable="false">Complete action using</string>
+    <string name="share_url" translatable="false">Share URL</string>
+    <string name="url_error" translatable="false">Данная ссылка не поддерживается!Попробуйте изменить userAgent.</string>
+
+    <string name="null_load" translatable="false">Переход на пустую страницу невозможен.</string>
+
+
+    <string name="dialog_edit" translatable="false">Поиск</string>
+    <string name="positive_button" translatable="false">Ок</string>
+    <string name="negative_button" translatable="false">Отмена</string>
+    <string name="book" translatable="false">Записать закладку не удалось,нет места!</string>
+    <string name="book_delete" translatable="false">Хотите удалить закладку?</string>
+    <string name="button_yes" translatable="false">Да</string>
+    <string name="button_no" translatable="false">Нет</string>
+    <string name="button_git" translatable="false">Go to Git</string>
+
+    <string name="dialog_1" translatable="false">"<font color='#0000FF'>1.---</font>"</string>
+
+    <string name="htpp" translatable="false">Внимание!На сайте используется незащищённый протокол http.</string>
+
+    <string name="loadEnd" translatable="false">Файл Загружен в папку Download</string>
+    <string name="problem_downloading" translatable="false">Problem downloading</string>
+    <string name="downloading" translatable="false">Downloading</string>
+    <string name="download_manager" translatable="false">Менеджер загрузок</string>
+    <string name="download_question" translatable="false">Загрузить этот файл в папку Download ?</string>
+
+
+    <string name="screenshot_save" translatable="false">Скриншот сохранён в папке- /Pictures/Screenshots/ ---</string>
+    <string name="number_book" translatable="false">"Записана закладка   "</string>
+
+    <string name="choose_your_home_page" translatable="false">CHOOSE YOUR HOME PAGE!!!</string>
+    <string name="stop_loading" translatable="false">Стоп загрузка!</string>
+    <string name="reload_page" translatable="false">Перезагружаю!</string>
+    <string name="page_forward" translatable="false">Вперёд!</string>
+
+    <string name="internet_error" translatable="false">Internet ERROR!!!</string>
+    <string name="intent" translatable="false">Данная ссылка начинаеться с intent.Попробуйте сменить userAgent.</string>
+
+    <string name="geolocation" translatable="false">Геолокация</string>
+    <string name="geo_mess" translatable="false">Сайт запрашивает ваше местоположение</string>
+
+    <string name="books" translatable="false">Закладки</string>
+    <string name="download_html" translatable="false">Загружаю...</string>
+    <string name="download_page_html" translatable="false">Загрузить страницу...</string>
+
+    <string name="onjsalert" translatable="false">MyWeb---onJsAlert---</string>
+    <string name="onjsconfirm" translatable="false">MyWeb---onJsConfirm---</string>
+
+    <string name="first_run" translatable="false">Первый запуск приложения...    </string>
+
+    <string name="xml_settings" translatable="false">НАСТРОЙКИ</string>
+    <string name="xml_home_page" translatable="false">Домашняя страница</string>
+    <string name="xml_choice" translatable="false">Выбор</string>
+    <string name="xml_user" translatable="false">Юзер Агент</string>
+    <string name="xml_listPrefHomePage" translatable="false">listPrefHomePage</string>
+    <string name="xml_userHomePage" translatable="false">userHomePage</string>
+    <string name="xml_enter_home_page" translatable="false">Ваша домашняя страница</string>
+    <string name="xml_edit" translatable="false">Измените</string>
+    <string name="xml_https" translatable="false">https://</string>
+    <string name="xml_preferenceScreen_key" translatable="false">Home</string>>
+    <string name="xml_preferenceScreen_User_Agent" translatable="false">User Agent</string>>
+    <string name="xml_listPrefUserAgent" translatable="false">listPrefUserAgent</string>
+    <string name="xml_editTextPreference_key_enterUserAgent" translatable="false">enterUserAgent</string>
+    <string name="xml_editTextPreference_title_Enter_UserAgent" translatable="false">Ваш UserAgent</string>
+    <string name="xml_editTextPreference_summary_Edit" translatable="false">Введите</string>
+    <string name="xml_other" translatable="false">Другие настройки</string>
+    <string name="xml_webTextSize" translatable="false">Размер текста страницы</string>
+    <string name="xml_listPrefWebTextSize" translatable="false">listPrefWebTextSize</string>
+    <string name="xml_webColor" translatable="false">Цвет страницы</string>
+    <string name="xml_listPrefWebColor" translatable="false">listPrefWebColor</string>
+    <string name="xml_actionbar_auto_gone" translatable="false">Прятать ActionBar</string>
+    <string name="xml_false" translatable="false">False</string>
+    <string name="xml_actionbar" translatable="false">actionbar</string>
+    <string name="xml_javascript" translatable="false">JavaScript отключить</string>
+    <string name="xml_javaScriptEnabled" translatable="false">javaScriptEnabled</string>
+    <string name="xml_image" translatable="false">Изображения отключить</string>
+    <string name="xml_img" translatable="false">img</string>
+    <string name="xml_cookie" translatable="false">Cookie отключить</string>
+    <string name="xml_key_cookie" translatable="false">cookie</string>
+    <string name="xml_sound" translatable="false">Звук отключить</string>
+    <string name="xml_key_sound" translatable="false">sound</string>
+    <string name="xml_adblock" translatable="false">AdBlock включить</string>
+    <string name="xml_key_adblock" translatable="false">adblock</string>
+    <string name="xml_true" translatable="false">True</string>
+
+    <string name="app_info" translatable="false">MyWeb.Version 5."MyWeb" is fully free/libre (as in freedom) Android app. The source code is public. The app also does not need any unnecessary permissions.
+        Its a simple Android browser based on webview.
+        The intention is to provide a simple and light weight but powerful browser with a nice looking user interface.</string>
+
+</resources>

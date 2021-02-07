@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listArrayHomePage">
+        <item>Yandex</item>
+        <item>Google</item>
+        <item>Mail</item>
+        <item>Duck</item>
+        <item>You Home Page</item>
+    </string-array>
+
+    <string-array name="listValuesHomePage">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="listArrayUserAgent">
+        <item>You dev</item>
+        <item>Linux Desktop</item>
+        <item>Android 11-YandexBrowser</item>
+        <item>Android 12-OperaBrowser</item>
+        <item>OS 13_3 Iphone</item>
+        <item>Mac OS X iPad</item>
+        <item>Mac OS Macintosh</item>
+        <item>Win 10</item>
+        <item>SmartTV </item>
+        <item>You choice</item>
+    </string-array>
+
+    <string-array name="listValuesUserAgent">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="listArrayWebTextSize">
+        <item>Smallest 50%</item>
+        <item>Smaller 75%</item>
+        <item>Normal 100%</item>
+        <item>Larger 150%</item>
+        <item>Largest 200%</item>
+    </string-array>
+
+    <string-array name="listValuesWebTextSize">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="listArrayWebColor">
+        <item>Style 1</item>
+        <item>Style 2</item>
+        <item>Style 3</item>
+        <item>Negative style</item>
+        <item>Normal style</item>
+    </string-array>
+
+    <string-array name="listValuesWebColor">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>

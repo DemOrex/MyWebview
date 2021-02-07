@@ -1,0 +1,13 @@
+<resources>
+    <color name="primary_light">#edeceb</color>
+    <color name="accent_light">#517c50</color>
+    <color name="primary_dark_light">#0d0c0c</color>
+    <color name="primary">#2d2c2a</color>
+    <color name="accent">#9BB8D9</color>
+    <color name="primary_dark">#e2e0e0</color>
+    <color name="blue">#1A1AE1</color>
+    <color name="progress">#F3B821</color>
+    <color name="dark1">#747070</color>
+    <color name="dark2">#2EB133</color>
+    <color name="dark3"> #232323</color>
+</resources>
