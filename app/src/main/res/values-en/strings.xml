@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyWeb</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_tab">Tabs</string>
+    <string name="menu_dop">Add menu</string>
+    <string name="menu_add_bookmark">Add bookmark</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_actionbar">Hide actionbar</string>
+    <string name="menu_history">History</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_screenshot">Screenshot</string>
+    <string name="menu_htpp" translatable="false">Html</string>
+    <string name="menu_mylog">MyLOG</string>
+    <string name="menu_about_site">On the website</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_pdf">In PDF</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_app_info" translatable="false">From App</string>
+
+    <string name="exit_from_app">Exit from app?</string>
+    <string name="are_you_sure">Are you sure?</string>
+
+    <string name="complete_action_using">Complete action using</string>
+    <string name="share_url">Share URL</string>
+    <string name="url_error">This link is not supported!Try to change UserAgent.</string>
+
+    <string name="null_load">You cant go to a blank page.</string>
+
+
+    <string name="dialog_edit">Search</string>
+    <string name="positive_button">Ok</string>
+    <string name="negative_button">Cancel</string>
+    <string name="book">The bookmark could not be recorded,there is no space!</string>
+    <string name="book_delete">Want to delete a bookmark?</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="button_git">Go to Git</string>
+
+    <string name="dialog_1" translatable="false">"<font color='#0000FF'>1.---</font>"</string>
+
+    <string name="htpp">Attention!The site uses the unsecured http protocol.</string>
+
+    <string name="loadEnd">The file is uploaded to the Download folder</string>
+    <string name="problem_downloading">Problem downloading</string>
+    <string name="downloading">Downloading</string>
+    <string name="download_manager">Download manager</string>
+    <string name="download_question">Upload this file to the Download folder ?</string>
+
+
+    <string name="screenshot_save">The screenshot is saved in the folder- /Pictures/Screenshots/ ---</string>
+    <string name="number_book">A bookmark has been recorded  </string>
+
+    <string name="choose_your_home_page">CHOOSE YOUR HOME PAGE!!!</string>
+    <string name="stop_loading" translatable="false">Stop loading!</string>
+    <string name="reload_page">Reload_page!</string>
+    <string name="page_forward">Forward!</string>
+
+    <string name="internet_error">Internet ERROR!!!</string>
+    <string name="intent">Try changing the UserAgent.</string>
+
+    <string name="geolocation">Geolocation</string>
+    <string name="geo_mess">The site requests your location</string>
+
+    <string name="books">Books</string>
+    <string name="download_html">Download...</string>
+    <string name="download_page_html">Download page...</string>
+
+    <string name="onjsalert">MyWeb---onJsAlert---</string>
+    <string name="onjsconfirm">MyWeb---onJsConfirm---</string>
+
+    <string name="first_run">First Run App...</string>
+
+    <string name="xml_settings">SETTINGS</string>
+    <string name="xml_home_page">Home Page</string>
+    <string name="xml_choice">Сhoice</string>
+    <string name="xml_user">User</string>
+    <string name="xml_listPrefHomePage">listPrefHomePage</string>
+    <string name="xml_userHomePage">userHomePage</string>
+    <string name="xml_enter_home_page">Enter home page</string>
+    <string name="xml_edit">Edit</string>
+    <string name="xml_https">https://</string>
+    <string name="xml_preferenceScreen_key">Home</string>
+    <string name="xml_preferenceScreen_User_Agent">User Agent</string>>
+    <string name="xml_listPrefUserAgent">listPrefUserAgent</string>
+    <string name="xml_editTextPreference_key_enterUserAgent">enterUserAgent</string>
+    <string name="xml_editTextPreference_title_Enter_UserAgent">Enter UserAgent</string>
+    <string name="xml_editTextPreference_summary_Edit">Edit</string>
+    <string name="xml_other">Other</string>
+    <string name="xml_webTextSize">WebTextSize</string>
+    <string name="xml_listPrefWebTextSize">listPrefWebTextSize</string>
+    <string name="xml_webColor">WebColor</string>
+    <string name="xml_listPrefWebColor">listPrefWebColor</string>
+    <string name="xml_actionbar_auto_gone">ActionBar Auto Gone</string>
+    <string name="xml_false">False</string>
+    <string name="xml_actionbar">actionbar</string>
+    <string name="xml_javascript">JavaScript</string>
+    <string name="xml_javaScriptEnabled">javaScriptEnabled</string>
+    <string name="xml_image">Image</string>
+    <string name="xml_img">img</string>
+    <string name="xml_cookie">Cookie</string>
+    <string name="xml_key_cookie">cookie</string>
+    <string name="xml_sound">Sound</string>
+    <string name="xml_key_sound">sound</string>
+    <string name="xml_adblock">AdBlock</string>
+    <string name="xml_key_adblock">adblock</string>
+    <string name="xml_true">True</string>
+
+
+    <string name="app_info">MyWeb.Version 5."MyWeb" is fully free/libre (as in freedom) Android app. The source code is public. The app also does not need any unnecessary permissions.
+        Its a simple Android browser based on webview.
+        The intention is to provide a simple and light weight but powerful browser with a nice looking user interface.</string>
+</resources>
