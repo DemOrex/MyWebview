@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="@string/xml_settings"/>
+	<PreferenceCategory android:title="@string/xml_home_page">
+		<PreferenceScreen
+			android:title="@string/xml_home_page">
+
+			<ListPreference
+				android:title="@string/xml_home_page"
+				android:summary="@string/xml_choice"
+				android:key="@string/xml_listPrefHomePage"
+				android:entries="@array/listArrayHomePage"
+				android:entryValues="@array/listValuesHomePage"
+				android:icon="@drawable/ic_house"/>
+			<EditTextPreference
+				android:key="@string/xml_userHomePage"
+				android:title="@string/xml_enter_home_page"
+				android:summary="@string/xml_edit"
+				android:defaultValue="@string/xml_https"
+				android:icon="@drawable/ic__edit"/>
+		</PreferenceScreen>
+	</PreferenceCategory>
+
+	<PreferenceCategory
+		android:title="@string/xml_user">
+		<PreferenceScreen
+			android:title="@string/xml_preferenceScreen_User_Agent"
+			android:key="@string/xml_preferenceScreen_key"
+			android:summary="@string/xml_choice">
+
+			<ListPreference
+				android:title="@string/xml_preferenceScreen_User_Agent"
+				android:summary="@string/xml_choice"
+				android:key="@string/xml_listPrefUserAgent"
+				android:entries="@array/listArrayUserAgent"
+				android:entryValues="@array/listValuesUserAgent"
+				android:icon="@drawable/ic_android"/>
+			<EditTextPreference
+				android:key="@string/xml_editTextPreference_key_enterUserAgent"
+				android:title="@string/xml_editTextPreference_title_Enter_UserAgent"
+				android:summary="@string/xml_editTextPreference_summary_Edit"
+				android:icon="@drawable/ic_edit_user_agent"/>
+
+		</PreferenceScreen>
+	</PreferenceCategory>
+
+
+	<PreferenceCategory
+		android:title="@string/xml_other" />
+	<ListPreference
+		android:title="@string/xml_webTextSize"
+		android:summary="@string/xml_choice"
+		android:key="@string/xml_listPrefWebTextSize"
+		android:entries="@array/listArrayWebTextSize"
+		android:entryValues="@array/listValuesWebTextSize" />
+	<ListPreference
+		android:title="@string/xml_webColor"
+		android:summary="@string/xml_choice"
+		android:key="@string/xml_listPrefWebColor"
+		android:entries="@array/listArrayWebColor"
+		android:entryValues="@array/listValuesWebColor" />
+	<CheckBoxPreference
+		android:title="@string/xml_actionbar_auto_gone"
+		android:key="@string/xml_actionbar"
+		android:summary="@string/xml_true" />
+	<CheckBoxPreference
+		android:title="@string/xml_javascript"
+		android:key="@string/xml_javaScriptEnabled"
+		android:summary="@string/xml_false" />
+	<CheckBoxPreference
+		android:title="@string/xml_image"
+		android:key="@string/xml_img"
+		android:summary="@string/xml_false" />
+	<CheckBoxPreference
+		android:title="@string/xml_cookie"
+		android:key="@string/xml_key_cookie"
+		android:summary="@string/xml_false" />
+	<CheckBoxPreference
+		android:title="@string/xml_sound"
+		android:key="@string/xml_key_sound"
+		android:summary="@string/xml_false" />
+	<CheckBoxPreference
+		android:title="@string/xml_adblock"
+		android:key="@string/xml_key_adblock"
+		android:summary="@string/xml_true" />
+
+</PreferenceScreen>
